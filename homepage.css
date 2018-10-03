@@ -1,0 +1,29 @@
+body {
+    background-image: url("vaporwave.png");
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+h1, h2, h3, h4, h5{
+    color:White;
+    font-family: "Lucida Sans Unicode" ;
+}
+#nav{
+    background-color: white;
+    list-style-type: none;
+}
+#nav li {
+    float: right;
+    font-family: "Lucida Grande";
+}
+#nav li a{
+    display: block;
+    padding: 14px 16px;
+    text-align: center;
+    font-size: 20px;
+    color:White;
+    font-family: "Lucida Sans Unicode" ;
+    margin: -2px;
+    overflow: hidden;
+    
+}
